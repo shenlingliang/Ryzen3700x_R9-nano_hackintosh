@@ -4,6 +4,7 @@
 - motherboard: Rog strix x470i
 - OS: mac os 10.15.7
 - 网卡：DW1820a
+- 引导：opencore 0.6.3
 ---
 问题：
 - 接力好像还有一点问题
